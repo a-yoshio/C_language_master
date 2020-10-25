@@ -6,5 +6,10 @@ int main(void){
     int number;
     scanf("%d", &number);
     printf("OK! I understand! You like number is -> %d", number);
+    // put function
+    printf("New Line!|");
+    printf("Not new line...|");
+    puts("Let's new line!|");
+    printf("New Line!|");
     return 0;
 }
